@@ -4,6 +4,6 @@ import org.junit.*;
 public class MyNameTest {
     @Test
     public void addition() {
-        assertEquals(2, MyName.name(1));
+        assertEquals(3, MyName.name(1));
     }
 }
